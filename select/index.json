@@ -1,0 +1,216 @@
+{
+  "version": 1,
+  "base_track": "おかえり",
+  "base_artist": "ayaka",
+  "createdAt": "2026-03-10T13:55:54.001061Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "おかえり",
+      "artist": "paniyolo feat. Kaede Mira",
+      "has_synced": false,
+      "path": "select/01_おかえり_paniyolo_feat._Kaede_Mira.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "おかえり",
+      "artist": "宮内れんげ(CV.小岩井ことり)、一条蛍(CV.村川梨衣)、越谷夏海(CV.佐倉綾音)、越谷小鞠(CV.阿澄佳奈)",
+      "has_synced": true,
+      "path": "select/02_おかえり_宮内れんげ(CV.小岩井ことり)、一条蛍(CV.村川梨衣)、越谷夏海(CV.佐倉綾音)、越谷小鞠(CV.阿澄佳奈).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ただいま、おかえり",
+      "artist": "豊崎 愛生",
+      "has_synced": false,
+      "path": "select/03_ただいま、おかえり_豊崎_愛生.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ただいま、おかえり",
+      "artist": "豊崎愛生",
+      "has_synced": false,
+      "path": "select/04_ただいま、おかえり_豊崎愛生.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "おかえり",
+      "artist": "宮内れんげ (CV.小岩井ことり)",
+      "has_synced": true,
+      "path": "select/05_おかえり_宮内れんげ_(CV.小岩井ことり).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "おかえり",
+      "artist": "絢香",
+      "has_synced": true,
+      "path": "select/06_おかえり_絢香.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "おかえり (Off Vocal)",
+      "artist": "宮内れんげ(CV.小岩井ことり)、一条蛍(CV.村川梨衣)、越谷夏海(CV.佐倉綾音)、越谷小鞠(CV.阿澄佳奈)",
+      "has_synced": true,
+      "path": "select/07_おかえり_(Off_Vocal)_宮内れんげ(CV.小岩井ことり)、一条蛍(CV.村川梨衣)、越谷夏海(CV.佐倉綾音)、越谷小鞠(CV.阿澄佳奈).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "おかえり",
+      "artist": "宮内れんげ (CV.小岩井ことり)",
+      "has_synced": true,
+      "path": "select/08_おかえり_宮内れんげ_(CV.小岩井ことり).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "おかえり",
+      "artist": "ときのそら",
+      "has_synced": true,
+      "path": "select/09_おかえり_ときのそら.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "おかえり",
+      "artist": "Tokino Sora",
+      "has_synced": true,
+      "path": "select/10_おかえり_Tokino_Sora.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "おかえり",
+      "artist": "吉岡亜衣加",
+      "has_synced": false,
+      "path": "select/11_おかえり_吉岡亜衣加.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "おかえり",
+      "artist": "神聖かまってちゃん",
+      "has_synced": true,
+      "path": "select/12_おかえり_神聖かまってちゃん.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "おかえり",
+      "artist": "Shinsei Kamattechan",
+      "has_synced": true,
+      "path": "select/13_おかえり_Shinsei_Kamattechan.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "おかえり。",
+      "artist": "安野希世乃",
+      "has_synced": false,
+      "path": "select/14_おかえり。_安野希世乃.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "おかえり",
+      "artist": "絢香",
+      "has_synced": true,
+      "path": "select/15_おかえり_絢香.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "おかえり",
+      "artist": "Sora Tokino",
+      "has_synced": true,
+      "path": "select/16_おかえり_Sora_Tokino.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おかえり",
+      "artist": "絢香",
+      "has_synced": false,
+      "path": "select/pl_01_おかえり_絢香.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "おかえり",
+      "artist": "絢香",
+      "has_synced": false,
+      "path": "select/pl_02_おかえり_絢香.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "おかえり",
+      "artist": "絢香",
+      "has_synced": false,
+      "path": "select/pl_03_おかえり_絢香.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "おかえり",
+      "artist": "絢香",
+      "has_synced": false,
+      "path": "select/pl_04_おかえり_絢香.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "おかえり",
+      "artist": "絢香",
+      "has_synced": false,
+      "path": "select/pl_05_おかえり_絢香.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "おかえり",
+      "artist": "絢香",
+      "has_synced": false,
+      "path": "select/pl_06_おかえり_絢香.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "おかえり",
+      "artist": "絢香",
+      "has_synced": false,
+      "path": "select/pl_07_おかえり_絢香.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "おかえり",
+      "artist": "絢香",
+      "has_synced": false,
+      "path": "select/pl_08_おかえり_絢香.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "おかえり",
+      "artist": "絢香",
+      "has_synced": false,
+      "path": "select/pl_09_おかえり_絢香.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "おかえり",
+      "artist": "絢香",
+      "has_synced": false,
+      "path": "select/pl_10_おかえり_絢香.txt"
+    }
+  ]
+}
